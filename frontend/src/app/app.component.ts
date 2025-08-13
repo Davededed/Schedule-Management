@@ -7,7 +7,7 @@ import { ScheduleListComponent } from './modules/schedules/components/schedule-l
     <div class="app-container">
       <header class="app-header">
         <h1>Schedule Management System</h1>
-        <p>Enterprise Schedule and Slot Management</p>
+        <p>Schedule and Slot Management</p>
       </header>
 
       <nav class="app-nav">
