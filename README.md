@@ -1,3 +1,7 @@
+# Schedule Management System
+
+Schedule and Slot Management system built with NestJS (backend) and Angular (frontend). This system provides robust APIs for managing staff schedules and generating time slots with advanced error handling and scalable architecture.
+
 ### Backend (NestJS + MongoDB)
 - **Clean Architecture**: Modular structure with separation of concerns
 - **Enterprise Patterns**: DTOs, Services, Controllers, Schemas, Interfaces
@@ -5,11 +9,6 @@
 - **API Documentation**: Swagger/OpenAPI integration
 - **Database**: MongoDB with Mongoose ODM
 
-### Frontend (Angular)
-- **Component-Based Architecture**: Modular and reusable components
-- **Reactive Forms**: Form validation and user input handling
-- **HTTP Client**: Service-based API communication
-- **Responsive Design**: Mobile-friendly UI
 
 ### Backend APIs
 1. **Schedule Management**
